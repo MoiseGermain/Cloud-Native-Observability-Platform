@@ -1,6 +1,6 @@
 production-style cloud-native observability platform
 
-````markdown
+
 # Cloud-Native Observability Platform
 
 ## Overview
